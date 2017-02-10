@@ -2858,11 +2858,11 @@ p.right {
 	
 	.nbs-flexisel-nav-left{
 		margin-top:5%;
-		margin-left:15%;
+		top:35px !important;
 	}
 	.nbs-flexisel-nav-right{
 		margin-top:5% !important;
-		margin-right: 15% !important;
+		top: 35px !important;
 	}
 }
 @media screen and (max-width: 320px) {	
