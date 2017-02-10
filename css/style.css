@@ -2860,6 +2860,11 @@ p.right {
 		margin-top:5%;
 		margin-left:15%;
 	}
+	
+	.nbs-flexisel-nav-right{
+		margin-top:5%;
+		margin-right:15%;
+	}
 }
 @media screen and (max-width: 320px) {	
 	.header-top-left {
