@@ -687,8 +687,6 @@ a.like_name {
     background-position: -218px -369px;
     background-repeat: no-repeat;
     cursor: pointer;
-	margin-right: 15%;
-    top: 50px !important;
 }
 .other-products {
     padding: 30px 0 60px;
@@ -2856,6 +2854,11 @@ p.right {
 	.media-left.response-text-left {
 		width: 20%;
 		margin-right: 2%;
+	}
+	.nbs-flexisel-nav-right,
+	.nbs-flexisel-nav-left{
+		margin-top:5%;
+		margin-left:15%;
 	}
 }
 @media screen and (max-width: 320px) {	
